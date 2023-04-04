@@ -36,6 +36,7 @@ nav h3 {
   flex: 1;
   margin: 1rem;
   font-family: var(--font-heading);
+  font-weight: 300;
   color: var(--color-coal);
   font-size: 32px;
 }
@@ -84,6 +85,7 @@ ul a {
 
 .nav_link {
   font-family: var(--font-heading);
+  font-weight: 300;
   color: var(--color-coal);
   margin: 2rem 0;
   list-style: none;
@@ -126,7 +128,7 @@ ul a {
   font-size: 230px;
   display: flex;
   flex-direction: column;
-  font-weight: bold;
+  font-weight: 300;
   margin: 0;
   line-height: 200px;
   position: absolute;
@@ -208,7 +210,7 @@ ul a {
 .product1_text-heading p {
   font-size: 32px;
   font-family: var(--font-heading);
-  font-weight: bold;
+  font-weight: 300;
   color: var(--color-black);
   margin: 0;
   text-align: left;
@@ -331,7 +333,7 @@ ul a {
 .merch_heading-container p {
   font-size: 32px;
   font-family: var(--font-heading);
-  font-weight: bold;
+  font-weight: 300;
   color: var(--color-coal);
   margin: 0;
   text-align: left;
@@ -428,7 +430,7 @@ ul a {
 .newsletter_heading-container p {
   font-size: 32px;
   font-family: var(--font-heading);
-  font-weight: bold;
+  font-weight: 300;
   color: var(--color-coal);
   margin: 0;
   text-align: left;
@@ -600,7 +602,7 @@ ul a {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    font-weight: bold;
+    font-weight: 300;
     margin: 0;
     line-height: 90px;
     position: relative;
@@ -685,7 +687,7 @@ ul a {
   .product1_text-heading p {
     font-size: 18px;
     font-family: var(--font-heading);
-    font-weight: bold;
+    font-weight: 300;
     color: var(--color-black);
     margin: 0;
     text-align: left;
@@ -816,7 +818,7 @@ ul a {
   .merch_heading-container p {
     font-size: 32px;
     font-family: var(--font-heading);
-    font-weight: bold;
+    font-weight: 300;
     color: var(--color-coal);
     margin: 0;
     text-align: left;
@@ -902,7 +904,7 @@ ul a {
   .newsletter_heading-container p {
     font-size: 32px;
     font-family: var(--font-heading);
-    font-weight: bold;
+    font-weight: 300;
     color: var(--color-coal);
     margin: 0;
     text-align: left;
