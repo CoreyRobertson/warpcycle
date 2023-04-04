@@ -863,6 +863,7 @@ ul a {
     color: var(--color-coal);
     font-family: var(--font-heading);
     font-size: 22px;
+    font-weight: 300;
     padding-top: 2rem;
   }
 
