@@ -331,7 +331,7 @@ ul a {
 }
 
 .merch_heading-container p {
-  font-size: 32px;
+  font-size: 30px;
   font-family: var(--font-heading);
   font-weight: 300;
   color: var(--color-coal);
@@ -817,7 +817,7 @@ ul a {
   }
 
   .merch_heading-container p {
-    font-size: 32px;
+    font-size: 20px;
     font-family: var(--font-heading);
     font-weight: 300;
     color: var(--color-coal);
@@ -903,7 +903,7 @@ ul a {
   }
 
   .newsletter_heading-container p {
-    font-size: 32px;
+    font-size: 20px;
     font-family: var(--font-heading);
     font-weight: 300;
     color: var(--color-coal);
